@@ -1,0 +1,15 @@
+[project]
+name = "agentic-ai-20250312"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "langchainhub>=0.1.21",
+    "openai>=1.66.2",
+    "pandas>=2.2.3",
+    "pypdf>=4.3.1",
+    "ragstack-ai>=1.1.0",
+    "streamlit>=1.43.2",
+    "tiktoken>=0.9.0",
+]
